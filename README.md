@@ -1,1 +1,1 @@
-# COVID-Temp
+# COVID-19
